@@ -1,0 +1,2 @@
+venv/ pycache/ .pyc .pyo .pyd .DS_Store Thumbs.db .env .env
+.ipynb_checkpoints/ .vscode/ .idea/
