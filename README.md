@@ -1,4 +1,3 @@
-# 📊 Dashboard de Estatísticas de E-commerce em Dash
 
 Este projeto desenvolve uma aplicação interativa usando **Dash**,
 **Plotly** e **Pandas** para analisar dados estatísticos de um
@@ -9,23 +8,16 @@ importantes, oferecendo uma experiência intuitiva para o usuário final
 
 ------------------------------------------------------------------------
 
-## 🚀 Funcionalidades do Dashboard
+Funcionalidades do Dashboard
 
--   Exibição interativa dos gráficos criados no módulo anterior;
 -   Visualizações construídas com Plotly;
 -   Interface simples e amigável construída com Dash;
 -   Atualização instantânea dos gráficos ao alterar filtros.
 
-------------------------------------------------------------------------
-
-## 🧠 Pré-requisitos
-
--   Python 3.8+
--   Pip atualizado
 
 ------------------------------------------------------------------------
 
-## 🛠️ Como executar o projeto
+##  Como executar o projeto
 
 ### 1. Instalar dependências:
 
@@ -47,4 +39,4 @@ importantes, oferecendo uma experiência intuitiva para o usuário final
     requirements.txt
     README.md
     .gitignore
-    ecommerce_estatistica.csv (fornecido pelo usuário)
+    ecommerce_estatistica.csv
